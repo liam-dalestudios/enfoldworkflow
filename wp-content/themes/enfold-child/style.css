@@ -10,3 +10,7 @@ Template: enfold
 
 
 /*Add your own styles here:*/
+
+h2 {
+  color: red!important;
+}
